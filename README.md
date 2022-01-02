@@ -4,10 +4,10 @@
 This project is about scraping the information about Mars from websites and creating a web application to present that information. We show the latest news on our web application, featuring Mars images, Mars Facts, and Mars hemispheres.
 
 ### Files for the project:
-1. [Mission_to_Mars_Challenge.ipynb]() (Create codes for web scraping)
+1. [Mission_to_Mars_Challenge.ipynb](https://github.com/Takomochi/Mission-to-Mars/blob/main/Mission_to_Mars_Challenge.ipynb) (Create codes for web scraping)
 2. [scrape.py](https://github.com/Takomochi/Mission-to-Mars/blob/main/scraping.py) (Create functions to extract web information)
 3. [app.py](https://github.com/Takomochi/Mission-to-Mars/blob/main/app.py) (Create a web page with Flask)
-4. [index.html]() (Customize the website with Bootsrap)
+4. [index.html](https://github.com/Takomochi/Mission-to-Mars/blob/main/templates/index.html) (Customize the website with Bootsrap)
 
 ## Resouces
 - Data: [Mars Planet Science](https://redplanetscience.com/), [JPL Space Images](https://spaceimages-mars.com), [Mars Facts](https://galaxyfacts-mars.com), [Hemisphere images](https://marshemispheres.com/)

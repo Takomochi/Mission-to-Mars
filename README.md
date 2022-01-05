@@ -18,3 +18,20 @@ Screenshot below is the website. When you click the "Scrape New Data" button, al
 
 <img width="589" alt="screenshot_1" src="https://user-images.githubusercontent.com/85041697/147887930-5f9f11cb-4d33-4676-9529-ffbf069bdbea.png">
 <img width="581" alt="screenshot_2" src="https://user-images.githubusercontent.com/85041697/147887933-ad93fc2d-7f18-4ccb-bb07-9fa98e7fc27a.png">
+
+
+### Bootsrap 3 Component
+
+1. Mobile-Responsive
+In order to make the website to be mobile-responsive, I added Bootsrap 3 grid system. <br>
+- **col-sm-6** : Featured Mars image and Mars facts
+- **col-sm-3**: Mars hemispheres
+
+2. Styling website
+For the stylying, I used 2 Bootsrap 3 components. 
+- **btn-lg** : Resizing the button
+- **thumbnail**:  Mars hemishere images
+
+    Now the website looks like the image below for iPad users.<br>
+
+    <img width="315" alt="responsive" src="https://user-images.githubusercontent.com/85041697/148272584-a53a7938-629d-43ee-9482-7a22c71ad996.png">
